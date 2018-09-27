@@ -1,6 +1,14 @@
 [
     {
+        "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/loseweight_android/APICloudModuleSDK/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zhangbenzhi/.android/build-cache/8ca52bc2fa0d5335a124cb9301b0cdc0dbeae32a/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/apicloud_project/APICloudModuleSDK/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zhangbenzhi/.android/build-cache/8ca52bc2fa0d5335a124cb9301b0cdc0dbeae32a/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/loseweight_android/APICloudModuleSDK/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
         "source": "/Users/zhangbenzhi/.android/build-cache/8ca52bc2fa0d5335a124cb9301b0cdc0dbeae32a/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {

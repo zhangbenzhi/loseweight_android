@@ -1,11 +1,27 @@
 [
     {
+        "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/loseweight_android/APICloudModuleSDK/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/zhangbenzhi/.android/build-cache/8ca52bc2fa0d5335a124cb9301b0cdc0dbeae32a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/loseweight_android/APICloudModuleSDK/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/zhangbenzhi/.android/build-cache/8ca52bc2fa0d5335a124cb9301b0cdc0dbeae32a/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/loseweight_android/APICloudModuleSDK/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/zhangbenzhi/.android/build-cache/8ca52bc2fa0d5335a124cb9301b0cdc0dbeae32a/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
         "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/apicloud_project/APICloudModuleSDK/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
         "source": "/Users/zhangbenzhi/.android/build-cache/8ca52bc2fa0d5335a124cb9301b0cdc0dbeae32a/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/apicloud_project/APICloudModuleSDK/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
         "source": "/Users/zhangbenzhi/.android/build-cache/8ca52bc2fa0d5335a124cb9301b0cdc0dbeae32a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/loseweight_android/APICloudModuleSDK/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/zhangbenzhi/.android/build-cache/8ca52bc2fa0d5335a124cb9301b0cdc0dbeae32a/output/res/layout-v21/notification_action.xml"
     },
     {
         "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/apicloud_project/APICloudModuleSDK/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",

@@ -430,7 +430,7 @@ public class APIModule extends UZModule {
             jsonObject.put("state", state);
         } catch (JSONException e) {
             e.printStackTrace();
-        }
+        }   
         uzModuleContext.success(jsonObject, true);
     }
 

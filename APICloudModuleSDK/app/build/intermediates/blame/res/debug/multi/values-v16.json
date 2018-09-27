@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "/Users/zhangbenzhi/android/android_project/project_for_others/loseweight_android/APICloudModuleSDK/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "/Users/zhangbenzhi/.android/build-cache/8ca52bc2fa0d5335a124cb9301b0cdc0dbeae32a/output/res/values-v16/values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/Users/zhangbenzhi/android/android_project/project_for_others/apicloud_project/APICloudModuleSDK/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
         "map": [
             {
