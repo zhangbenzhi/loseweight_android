@@ -1,0 +1,44 @@
+apply plugin: 'com.android.library'
+
+repositories {
+    jcenter()
+}
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 21
+        versionCode 1
+        versionName "2.0"
+    }
+
+    sourceSets{
+        main{
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    provided files('../app/libs/apiEngine v1.1.0.jar')
+    compile files('libs/qnsdk-0.2.1.jar')
+}
+
+//打jar包
+def SDK_BASENAME = "qingNiuModule";  //打包后的名称
+def sdkJarPath = "build";  //打包输出目录
+def zipFile = file('build/intermediates/bundles/default/classes.jar') //将编译生成的classes.jar文件打包
+task makeJar(type: Jar) {
+    from zipTree(zipFile)
+    from fileTree(dir: 'src/main', includes: ['assets/**']) //需要保留的资源文件
+    baseName = SDK_BASENAME
+    destinationDir = file(sdkJarPath)
+}
+makeJar.dependsOn(build)

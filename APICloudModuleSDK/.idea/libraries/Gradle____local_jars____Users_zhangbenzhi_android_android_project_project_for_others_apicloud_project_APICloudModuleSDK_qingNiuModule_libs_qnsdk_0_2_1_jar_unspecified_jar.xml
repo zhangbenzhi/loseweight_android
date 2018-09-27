@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:/Users/zhangbenzhi/android/android_project/project_for_others/apicloud_project/APICloudModuleSDK/qingNiuModule/libs/qnsdk-0.2.1.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/qingNiuModule/libs/qnsdk-0.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

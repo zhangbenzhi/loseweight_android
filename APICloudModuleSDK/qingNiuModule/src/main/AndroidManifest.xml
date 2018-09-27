@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.apicloud.qingNiuModule">
+
+    <!--SDK中需要的权限-->
+    <!--23之后的蓝牙需要添加以下权限,且需要动态申请-->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!--网络权限-->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!--蓝牙权限-->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <!--SDK中需要的权限 end-->
+    <application
+        android:allowBackup="true"
+        android:supportsRtl="true">
+
+        <!--SD中需要申请的服务-->
+        <service android:name="com.qingniu.qnble.scanner.BleScanService" />
+        <service android:name="com.qingniu.scale.ble.ScaleBleService" />
+    </application>
+
+</manifest>

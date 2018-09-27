@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/apicloud_project/APICloudModuleSDK/app/build/intermediates/res/merged/debug/drawable-xxhdpi/uz_splash_bg.png",
+        "source": "/Users/zhangbenzhi/android/android_project/project_for_others/apicloud_project/APICloudModuleSDK/app/src/main/res/drawable-xxhdpi/uz_splash_bg.png"
+    },
+    {
+        "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/apicloud_project/APICloudModuleSDK/app/build/intermediates/res/merged/debug/drawable-xxhdpi/uz_icon.png",
+        "source": "/Users/zhangbenzhi/android/android_project/project_for_others/apicloud_project/APICloudModuleSDK/app/src/main/res/drawable-xxhdpi/uz_icon.png"
+    }
+]

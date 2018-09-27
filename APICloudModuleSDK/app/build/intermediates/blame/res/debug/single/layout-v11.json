@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/apicloud_project/APICloudModuleSDK/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/zhangbenzhi/.android/build-cache/8ca52bc2fa0d5335a124cb9301b0cdc0dbeae32a/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/apicloud_project/APICloudModuleSDK/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/zhangbenzhi/.android/build-cache/8ca52bc2fa0d5335a124cb9301b0cdc0dbeae32a/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/apicloud_project/APICloudModuleSDK/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/zhangbenzhi/.android/build-cache/8ca52bc2fa0d5335a124cb9301b0cdc0dbeae32a/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/apicloud_project/APICloudModuleSDK/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/zhangbenzhi/.android/build-cache/8ca52bc2fa0d5335a124cb9301b0cdc0dbeae32a/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/apicloud_project/APICloudModuleSDK/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/zhangbenzhi/.android/build-cache/8ca52bc2fa0d5335a124cb9301b0cdc0dbeae32a/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/zhangbenzhi/android/android_project/project_for_others/apicloud_project/APICloudModuleSDK/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/zhangbenzhi/.android/build-cache/8ca52bc2fa0d5335a124cb9301b0cdc0dbeae32a/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]
